@@ -1,0 +1,14 @@
+{
+	"id": 1,
+	"naam": "Bokje Tytsje Maibock",
+	"vaten": [
+		{
+			"inhoud": 18.5,
+			"taps": [.3, .3, .5]
+		},
+		{
+			"inhoud": 16.5,
+			"taps": []
+		}
+	]
+},

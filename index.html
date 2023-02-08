@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="nl">
+<head>
+	<meta charset=utf-8>
+	<title>Tapkast</title>
+</head>
+<body>
+
+	
+<script src="js/jquery-3.6.3.min.js"></script>
+<script>
+(function(){
+	$.ajax({
+		url: "./api/bier.json",
+		dataType: "json",
+		data: {},
+		success:function(data){
+			alert('oi')
+		}
+	});
+})();
+</script>
+</body>
+</html>	

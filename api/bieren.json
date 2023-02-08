@@ -1,0 +1,16 @@
+{
+	"bieren":[
+		{
+			"id": 1,
+			"naam": "Dom Blondje"
+		},
+		{
+			"id": 2,
+			"naam": "Geart Piter Swier"
+		},
+		{
+			"id": 3,
+			"naam": "Bokje Tytsje Maibock"
+		}
+	]
+}
